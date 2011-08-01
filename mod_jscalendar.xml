@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <extension type="module" version="1.6.0" client="site" method="upgrade">
         <name>Events Calendar Module for JomSocial</name> 
-        <author>Andrew Peeling</author> 
+        <author>Andrew Peeling</author>
         <creationDate>March 2011</creationDate> 
 	<copyright>Copyright (C) Andrew Peeling 2011. All rights reserved.</copyright>
         <license>GUN/GPL 3.0</license> 
